@@ -1,0 +1,4 @@
+[corrade]
+  url=git@github.com:mosra/corrade.git
+  branch=master
+  commit=42795f836a4ae0ab5c6379a4a32a7cc875e38372
